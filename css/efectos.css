@@ -1,0 +1,23 @@
+body {
+    background-image: url(../imagenes/body.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+}
+
+h1{
+  font-size: 50px;
+    font: oblique bold 140% cursive;
+  color:#0DBFB6;
+}
+
+
+footer {
+    position: absolute;
+    bottom: 20px;
+    font-size: 50px;
+    font: oblique bold 120% cursive;
+    color: dodgerblue;
+}
